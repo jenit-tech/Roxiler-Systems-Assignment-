@@ -1,4 +1,4 @@
 navigate to the folder
 run npm install 
-run server 
+run 
 npm run dev 
